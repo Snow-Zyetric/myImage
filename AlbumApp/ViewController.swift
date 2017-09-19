@@ -96,11 +96,11 @@ class ViewController: UIViewController, UINavigationControllerDelegate,UIImagePi
     }
     
     @IBAction func takePhoto(_ sender: Any) {
-        let imagePicker = UIImagePickerController()
-        imagePicker.delegate = self
-        imagePicker.sourceType = UIImagePickerControllerSourceType.camera
-        imagePicker.allowsEditing = false
-        self.present(imagePicker, animated: true)
+        let image_Picker = UIImagePickerController()
+        image_Picker.delegate = self
+        image_Picker.sourceType = UIImagePickerControllerSourceType.camera
+        image_Picker.allowsEditing = false
+        self.present(image_Picker, animated: true)
         
         
         //fake fixed
