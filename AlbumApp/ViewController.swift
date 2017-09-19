@@ -13,7 +13,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate,UIImagePi
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var photoImage: UIImageView!
     
-    
+    // modified by Xiang Yu
     @IBAction func importImage(_ sender: Any) {
         let image = UIImagePickerController()
         image.delegate = self
