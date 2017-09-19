@@ -29,6 +29,10 @@ class ViewController: UIViewController, UINavigationControllerDelegate,UIImagePi
         tkP.sourceType = UIImagePickerControllerSourceType.camera
         tkP.allowsEditing = false
         self.present(tkP, animated: true)
+        
+        
+        //fake fixed
+        debugPrint("fixed")
     }
     
     
