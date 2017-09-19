@@ -9,9 +9,81 @@
 import UIKit
 
 class ViewController: UIViewController, UINavigationControllerDelegate,UIImagePickerControllerDelegate {
+    
+    
+    
+    
+    
+    //asdfasdfasdfs
+        //asdfasdfasdfs    //asdfasdfasdfs    //asdfasdfasdfs    //asdfasdfasdfs
+    
+    
+        //asdfasdfasdfs
+        //asdfasdfasdfs
+        //asdfasdfasdfs
+        //asdfasdfasdfs    //asdfasdfasdfs    //asdfasdfasdfs
+    
+        //asdfasdfasdfs
+        //asdfasdfasdfs
+        //asdfasdfasdfs
+        //asdfasdfasdfs
+        //asdfasdfasdfs    //asdfasdfasdfs    //asdfasdfasdfs
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var photoImage: UIImageView!
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     @IBAction func importImage(_ sender: Any) {
