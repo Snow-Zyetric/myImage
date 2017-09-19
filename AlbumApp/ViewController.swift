@@ -51,6 +51,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate,UIImagePi
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var photoImage: UIImageView!
     
+    //just create something about the fake
     
     
     
